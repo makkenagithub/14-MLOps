@@ -330,5 +330,22 @@ if __name__ == "__main__":
         mlflow.sklearn.log_model(lr, "mymodel")
 ```
 
+<img width="439" height="224" alt="image" src="https://github.com/user-attachments/assets/1a018d33-2258-4cdf-a482-ec61ab956fa9" />
+
+<img width="371" height="187" alt="image" src="https://github.com/user-attachments/assets/45d16e7b-a4e3-481d-95e4-a36dc4029880" />
+
+<img width="487" height="179" alt="image" src="https://github.com/user-attachments/assets/93a1ad1a-1a56-4458-876e-31a4a6a316d7" />
+
+<img width="371" height="236" alt="image" src="https://github.com/user-attachments/assets/36b4adf8-f775-4f65-b212-42bcb6af279f" />
+
+<img width="496" height="263" alt="image" src="https://github.com/user-attachments/assets/5cc26f2e-231b-45b6-8341-46c0de10890f" />
+
+<img width="395" height="134" alt="image" src="https://github.com/user-attachments/assets/be509f9c-acf7-4fa2-ba30-c4ebf838ea27" />
+
+
+
+
+
+
 
 
